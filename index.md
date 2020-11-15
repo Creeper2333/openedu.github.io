@@ -4,7 +4,7 @@
 
 下载[破解版翼课网 for Windows (x64)](/res/dl/EkwingCracker.exe)
 
-[用户协议](/res/protocol/p_ekwing.md)
+[用户协议](/res/protocols/p_ekwing.md)
 
 
 Powered by Creeper2333
